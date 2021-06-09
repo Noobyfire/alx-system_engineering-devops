@@ -1,0 +1,1 @@
+*The script in this directory will print the commands specified in each file*
