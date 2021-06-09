@@ -1,0 +1,1 @@
+*This repository contains scripts that automatically prints a given command*
