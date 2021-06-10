@@ -1,0 +1,1 @@
+*This directory contains scripts that contains shell permissions*
